@@ -17,3 +17,17 @@ Commit: este comando move os arquivos da state area para um repositório local;
 Add: este comando adiciona um arquivo alterado a uma staging area, ou seja, o prepara para ser vinculado a um commit;
 Push: este comando envia arquivos de um repositório local para um repositório remoto. No GitHub, por exemplo;
 Pull: ao contrário do push, este comando traz um arquivo do repositório remoto para o repositório local.
+
+**O que é o GitHub?**
+
+O **GitHub**, tão famoso entre a comunidade de programadores de todo o mundo, é uma espécie de rede social voltada a profissionais de [TI](https://kenzie.com.br/blog/area-de-ti/) cuja tecnologia que o sustenta é o GIT.
+
+As diferenças entre ele e o GIT estão nas interações proporcionadas pelo GitHub: funcionando de modo semelhante a uma rede social, o GitHub é hoje um dos maiores pontos de encontro virtuais entre programadores de todo o mundo.
+
+## **Vantagens do Git e Github**
+
+ uma das maiores vantagens de usar o GIT é a economia de tempo e recursos, uma vez que a consulta de diferentes versões de uma mesma aplicação é muito recorrente no trabalho do(a) programador(a).
+
+**as vantagens de utilizar o GitHub são inúmeras.**
+
+A maior delas, talvez, seja a oportunidade de aprender com programadores e programadoras mais experientes que você, especializado nas mesmas ou em diferentes áreas. 
